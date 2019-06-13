@@ -2,7 +2,7 @@
 # [](https://github.com/tonymich19/autopraticeteste)Automation Practice - Automação de Teste de Software
 Site Testado: Automation Practice - My Store - [ www.automationpractice.com]( www.automationpractice.com)
 
-Donwload do projeto: [Automation Practice](https://github.com/tonymich19/autopraticeteste/archive/Tony.zip).
+Download do projeto: [Automation Practice](https://github.com/tonymich19/autopraticeteste/archive/Tony.zip).
 
 Softwares necessários:
 IDE:Eclipse ou intelliJ IDEA com Plugin do Cumcumber instalado
